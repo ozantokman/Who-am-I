@@ -1,86 +1,122 @@
 <hr/>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- <a href="https://discord.gg/ArslanAmeer#5079" style="color: #ccc">
-  <img align="left" alt="Arslan's Discord" style="color: #ccc" width="22px" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
-</a> -->
-<!-- <a href="https://twitter.com/ThELeGenD_Says">
-  <img align="left" alt="Arslan's | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" /> -->
-</a>
-<a href="https://tr.linkedin.com/in/ozan-tokman">
-  <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
-</a>
-<!-- <a href="https://www.instagram.com/lk2712/">
-  <img align="left" alt="Arslan's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />
-</a> -->
-<!-- <a href="https://www.facebook.com/arslanameer2712">
-  <img align="left" alt="Arslan's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-2.svg" />
-</a> -->
+<div align="center">
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ArslanAmeer.ArslanAmeer) -->
+```
+ ██████╗ ███████╗ █████╗ ███╗   ██╗    ████████╗ ██████╗ ██╗  ██╗███╗   ███╗ █████╗ ███╗   ██╗
+██╔═══██╗╚══███╔╝██╔══██╗████╗  ██║    ╚══██╔══╝██╔═══██╗██║ ██╔╝████╗ ████║██╔══██╗████╗  ██║
+██║   ██║  ███╔╝ ███████║██╔██╗ ██║       ██║   ██║   ██║█████╔╝ ██╔████╔██║███████║██╔██╗ ██║
+██║   ██║ ███╔╝  ██╔══██║██║╚██╗██║       ██║   ██║   ██║██╔═██╗ ██║╚██╔╝██║██╔══██║██║╚██╗██║
+╚██████╔╝███████╗██║  ██║██║ ╚████║       ██║   ╚██████╔╝██║  ██╗██║ ╚═╝ ██║██║  ██║██║ ╚████║
+ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝       ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-<br />
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ozan
 
-Hi, I'm [Ozan](www.ozantokman.com), a Full Stack Developer 🚀 from World, currently, Freelancer @ <a href="https://ozantokman.com">
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" />  -->
-and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
+**`Architect · Fullstack WebGL Developer · Founder`**
 
-  <img align="right" alt="GIF" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" width="500" height="320" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/ozan-tokman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ozantokman.com)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ozantokman)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://ozantokman.artstation.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozantokman@gmail.com)
 
-**Talking about Personal Stuffs:**
+</div>
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Microservices using nodejs & AWS; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [ozantokman@gmail.com](ozantokman@gmail.com);
-- 📝 My [Portfolio](https://www.ozantokman.com/)
+<br/>
 
-**Languages and Tools:**  
+<img align="right" alt="3D WebGL Dev" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="350" />
 
+### 🏛️ Who Am I?
 
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular-js" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/less.svg" alt="less" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="25" width="25">
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://banner2.cleanpng.com/20180817/csy/kisspng-microsoft-sql-server-microsoft-corporation-sql-ser-5b7663e3cd2565.5939753015344854758403.jpg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="25" height="25" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="nginx" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" alt="heroku" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="25" height="25" />
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="25" height="25" >
-<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/webstorm-icon.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/resharperc-icon.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" width="25" height="25" >
-  <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="25" height="25" >
+I live at the **intersection of architecture and code** — where buildings meet browsers, and blueprints become WebGL experiences.
+
+Based in **Paris 🇫🇷**, I design spaces and build immersive digital worlds. By day an architect, by night a hacker pushing pixels in 3D space on the web.
+
+- 🏗️ **Architect** — trained in spatial design, I create both real and virtual spaces
+- 🌐 **Fullstack WebGL Developer** — building immersive 3D web experiences with Three.js
+- 🚀 **Founder of [Brousk.ai](https://brousk.ai)** — AI-powered startup bridging design & tech
+- 🏢 **Founder of [Brousk Design](https://brouskdesign.fr)** — 2D/3D design studio based in France
+- 🤫 **Working on a second secret startup** — stay tuned...
+- 🎮 Passionate about AR, Unreal Engine, and real-time 3D
+- 💬 Ask me about anything — architecture, WebGL, Three.js, or startup life
+- 📫 Reach me: [ozantokman@gmail.com](mailto:ozantokman@gmail.com)
+
+<br clear="right"/>
+
+<hr/>
+
+### 🧰 Tech Stack
+
+#### 🌐 WebGL & 3D Web
+<p>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL" />
 </p>
 
-<br />
+#### 🏗️ Architecture & 3D Design
+<p>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Revit-FF6B00?style=flat-square&logo=autodesk&logoColor=white" alt="Revit" />
+  <img src="https://img.shields.io/badge/3Ds_Max-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="3Ds Max" />
+  <img src="https://img.shields.io/badge/V--Ray-00A0D2?style=flat-square&logoColor=white" alt="V-Ray" />
+</p>
 
+#### 💻 Frontend & Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="angular" width="25" height="25" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" height="25" width="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="25" height="25" />
+  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="25" height="25" />
+  <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET Core" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="mongodb" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" height="25" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+</p>
 
+#### 🎨 Design & Creative Tools
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-6.svg" width="25" height="25" alt="Photoshop" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="25" height="25" alt="Illustrator" />
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="25" height="25" alt="Adobe XD" />
+  <img src="https://cdn.worldvectorlogo.com/logos/invision.svg" width="25" height="25" alt="InVision" />
+</p>
+
+<hr/>
+
+### 🚀 My Ventures
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖 <a href="https://brousk.ai">Brousk.ai</a></h3>
+      <p>AI-powered startup at the crossroads of design and technology. Building the next generation of intelligent tools for architects and creators.</p>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Domain-AI%20%2B%20Design-blueviolet?style=flat-square" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🏢 <a href="https://brouskdesign.fr">Brousk Design</a></h3>
+      <p>Creative design studio offering 2D/3D visualization, architectural rendering, product design and technical drawing across France.</p>
+      <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Domain-Architecture%20%2B%203D-orange?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🤫 ??? <em>Secret Startup</em></h3>
+      <p>Something big is brewing. Watch this space. 👀</p>
+      <img src="https://img.shields.io/badge/Status-Stealth%20Mode-black?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <hr/>
 
@@ -113,7 +149,7 @@ Sunday       97 commits     ███░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Karachi
+⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
 SCSS                     14 hrs              ████████░░░░░░░░░░░░░░░░░   35.41% 
@@ -132,28 +168,24 @@ Windows                  4 hrs 24 mins       ██░░░░░░░░░�
 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in** 
 
 ```text
-HTML                     50 repos            █████████████░░░░░░░░░░░░   52.08% 
-CSS                      15 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
-JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.54% 
-TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.29% 
-C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
+JavaScript / TypeScript  █████████████░░░░░░░░░░░░   55.00%
+HTML / CSS               ████████░░░░░░░░░░░░░░░░░   30.00%
+C# / Python              ███░░░░░░░░░░░░░░░░░░░░░░   12.00%
+WebGL / GLSL             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.00%
 
 ```
 
-
-
 <!--END_SECTION:waka-->
 
-<!-- 🚧 **My Todoist Stats:** -->
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
-  <!-- <summary>:zap: 📈 My GitHub Stats</summary>
-  <br>
-  <p align="left"> 
-    <img src="https://github-readme-stats.arslanameer.vercel.app//api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true&hide=contribs" alt="OzanTOKMAN Github Stats" />
-    </p> -->
+<hr/>
+
+<div align="center">
+  <em>"Architecture is frozen music. WebGL is architecture in motion."</em>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ozantokman&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+</div>
 
 <hr/>
